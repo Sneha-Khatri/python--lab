@@ -1,3 +1,5 @@
+#pattern
+
 n = int(input("Enter rows: "))
 
 if n > 0:
@@ -11,3 +13,10 @@ if n > 0:
 
 else:
     print("Not possible")
+    #Output
+    """Enter rows: 3
+  *
+ ***
+*****
+ ***
+  *"""
