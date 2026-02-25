@@ -1,8 +1,8 @@
 #finding multiplication of two numbers
 a = 6
-b = 7
+b = 6
 
 result = a * b
 print("Multiplication:", result)
 #Output
-"""Multiplication: 42"""
+"""Multiplication: 36"""
