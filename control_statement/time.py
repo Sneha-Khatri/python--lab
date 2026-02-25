@@ -1,3 +1,4 @@
+#Time
 total_seconds = int(input("Enter total seconds: "))
 
 hours = total_seconds // 3600
@@ -7,3 +8,6 @@ seconds = total_seconds % 60
 print("Hours =", hours)
 print("Minutes =", minutes)
 print("Seconds =", seconds)
+#Output
+"""HRA = 5000.0
+Total Monthly Salary = 35000.0"""
