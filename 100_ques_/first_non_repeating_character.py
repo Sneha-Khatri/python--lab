@@ -7,5 +7,5 @@ for ch in text:
         print("First non-repeating character:", ch)
         break
 #Output
-"""Enter a string: hello
-First non-repeating character: h"""
+"""Enter a string: swiss
+First non-repeating character: w"""

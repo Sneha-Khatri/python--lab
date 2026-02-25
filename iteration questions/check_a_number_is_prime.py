@@ -1,3 +1,4 @@
+#check a number is prime
 num = int(input("Enter a number: "))
 is_prime = True
 
@@ -13,3 +14,6 @@ if is_prime:
     print("Prime number")
 else:
     print("Not a prime number")
+#Output
+"""Enter a number: 2
+Prime number"""

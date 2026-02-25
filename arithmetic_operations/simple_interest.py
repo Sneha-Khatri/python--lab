@@ -11,3 +11,8 @@ print("Simple Interest:", simple_interest)
 Enter Rate (%): 3
 Enter Time (years): 4
 Simple Interest: 36.0"""
+#Output
+"""Enter Principal: 2000
+Enter Rate (%): 3
+Enter Time (years): 10
+Simple Interest: 600.0"""
